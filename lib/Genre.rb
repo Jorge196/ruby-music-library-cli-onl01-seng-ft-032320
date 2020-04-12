@@ -26,7 +26,9 @@ class Genre
     genre
   end
 
-
+  def artists
+    new_array = []
+    @
 
 
 
