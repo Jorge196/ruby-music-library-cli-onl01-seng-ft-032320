@@ -28,7 +28,7 @@ class Genre
 
   def artists
     new_array = []
-    @
+    @songs.each do |song|
 
 
 
